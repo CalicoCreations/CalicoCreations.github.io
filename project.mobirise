@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Calico Creations",
-    "currentPage": "products.html",
+    "currentPage": "contact.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -294,7 +294,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": false,
+            "inverse": true,
             "showTitle": true,
             "showMeta": false,
             "showText": true,
@@ -428,7 +428,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": false,
+            "inverse": true,
             "showTitle": true,
             "showMeta": false,
             "showText": true,
@@ -515,8 +515,10 @@
             "image": {
               "src": "@PROJECT_PATH@/assets/images/logo.png",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "alt": "Calico Creations",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -525,8 +527,8 @@
               "family": "MobiriseIcons",
               "link": "index.html",
               "size": 0,
-              "active": true,
-              "newWindow": false
+              "newWindow": false,
+              "active": true
             }
           },
           "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Calico Creations</a>",
@@ -619,9 +621,10 @@
               "linkInNewWindow": false,
               "name": "home",
               "family": "MobiriseIcons",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "size": 0,
-              "active": true
+              "active": true,
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Calico Creations</a>",
