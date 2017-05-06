@@ -41,7 +41,7 @@
           "_params": {
             "hamburgerColor": "#000",
             "sticky": true,
-            "transparent": true,
+            "transparent": false,
             "color": "#fff",
             "collapsed": true,
             "logo": true,
@@ -504,7 +504,7 @@
           "_params": {
             "hamburgerColor": "#000",
             "sticky": true,
-            "transparent": true,
+            "transparent": false,
             "color": "#fff",
             "collapsed": true,
             "logo": true,
@@ -600,7 +600,7 @@
           "_params": {
             "hamburgerColor": "#000",
             "sticky": true,
-            "transparent": true,
+            "transparent": false,
             "color": "#fff",
             "collapsed": true,
             "logo": true,
