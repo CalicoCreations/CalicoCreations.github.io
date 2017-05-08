@@ -120,7 +120,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Calico Creations."
+          "text": "Copyright (c) 2017 Calico Creations. &nbsp;Built with <a href=\"https://mobirise.com/\" target=\"_blank\">Mobirise</a>."
         },
         {
           "alias": "purity/components",
@@ -130,6 +130,9 @@
           "_name": "contacts1",
           "_styles": {
             "STRONG": {
+              "text-align": "left"
+            },
+            "P": {
               "text-align": "left"
             }
           },
@@ -163,8 +166,8 @@
             }
           },
           "text1": "",
-          "text2": "<p><strong><a href=\"contact.html\">Contact</a></strong><br>\nEmail: <a href=\"mailto:calicocreationskids@gmail.com\">calicocreationskids@gmail.com</a><br></p>",
-          "text3": "<p><strong>Links</strong></p><p></p><ul><li><a href=\"https://mobirise.com/\" target=\"_blank\">Website builder</a></li><li><a href=\"http://www.joann.com/\" target=\"_blank\">Jo-Ann Fabric</a></li></ul><p></p>"
+          "text2": "<p><br></p>",
+          "text3": "<p><b><a href=\"contact.html\">Contact</a></b></p><p><b>Email: <a href=\"mailto:calicocreationskids@gmail.com\">calicocreationskids@gmail.com</a></b></p><p></p>"
         }
       ]
     },
@@ -238,7 +241,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": true,
+            "inverse": false,
             "showTitle": true,
             "showMeta": false,
             "showText": true,
@@ -294,7 +297,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": true,
+            "inverse": false,
             "showTitle": true,
             "showMeta": false,
             "showText": true,
@@ -346,7 +349,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Calico Creations."
+          "text": "Copyright (c) 2017 Calico Creations. &nbsp;Built with <a href=\"https://mobirise.com/\" target=\"_blank\">Mobirise</a>."
         },
         {
           "_inherit": "msg-box5",
@@ -372,7 +375,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": true,
+            "inverse": false,
             "showTitle": true,
             "showMeta": false,
             "showText": true,
@@ -428,7 +431,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": true,
+            "inverse": false,
             "showTitle": true,
             "showMeta": false,
             "showText": true,
@@ -544,6 +547,9 @@
           "_styles": {
             "STRONG": {
               "text-align": "left"
+            },
+            "P": {
+              "text-align": "left"
             }
           },
           "_anchor": "contacts1-9",
@@ -576,8 +582,8 @@
             }
           },
           "text1": "",
-          "text2": "<p><strong><a href=\"contact.html\">Contact</a></strong><br>\nEmail: <a href=\"mailto:calicocreationskids@gmail.com\">calicocreationskids@gmail.com</a><br></p>",
-          "text3": "<p><strong>Links</strong></p><p></p><ul><li><a href=\"https://mobirise.com/\" target=\"_blank\">Website builder</a></li><li><a href=\"http://www.joann.com/\" target=\"_blank\">Jo-Ann Fabric</a></li></ul><p></p>"
+          "text2": "<p><br></p>",
+          "text3": "<p><b><a href=\"contact.html\">Contact</a></b></p><p><b>Email: <a href=\"mailto:calicocreationskids@gmail.com\">calicocreationskids@gmail.com</a></b></p><p></p>"
         }
       ]
     },
@@ -711,6 +717,9 @@
           "_styles": {
             "STRONG": {
               "text-align": "left"
+            },
+            "P": {
+              "text-align": "left"
             }
           },
           "_anchor": "contacts1-9",
@@ -743,8 +752,8 @@
             }
           },
           "text1": "",
-          "text2": "<p><strong><a href=\"contact.html\">Contact</a></strong><br>\nEmail: <a href=\"mailto:calicocreationskids@gmail.com\">calicocreationskids@gmail.com</a><br></p>",
-          "text3": "<p><strong>Links</strong></p><p></p><ul><li><a href=\"https://mobirise.com/\" target=\"_blank\">Website builder</a></li><li><a href=\"http://www.joann.com/\" target=\"_blank\">Jo-Ann Fabric</a></li></ul><p></p>"
+          "text2": "<p><br></p>",
+          "text3": "<p><b><a href=\"contact.html\">Contact</a></b></p><p><b>Email: <a href=\"mailto:calicocreationskids@gmail.com\">calicocreationskids@gmail.com</a></b></p><p></p>"
         }
       ]
     }

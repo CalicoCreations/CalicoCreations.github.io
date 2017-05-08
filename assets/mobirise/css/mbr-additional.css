@@ -4,6 +4,9 @@
 #contacts1-9 STRONG {
   text-align: left;
 }
+#contacts1-9 P {
+  text-align: left;
+}
 #msg-box3-m .mbr-header .mbr-header__text {
   text-align: center;
 }
@@ -16,9 +19,15 @@
 #contacts1-9 STRONG {
   text-align: left;
 }
+#contacts1-9 P {
+  text-align: left;
+}
 #menu-2 .navbar-toggler {
   color: #000;
 }
 #contacts1-9 STRONG {
+  text-align: left;
+}
+#contacts1-9 P {
   text-align: left;
 }
